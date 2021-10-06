@@ -31,5 +31,14 @@ public class Exercises {
     }
 
 
+//Exercise 5
 
+    public static StringBuilder deletingPhrase (String str, String phrase){
+
+        StringBuilder result = new StringBuilder(str);
+        int startIndex = str.indexOf(phrase);
+        int endIndex = startIndex + phrase.length();
+        result.delete(startIndex, endIndex);
+        return result;
+    }
 }
