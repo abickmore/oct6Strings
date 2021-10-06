@@ -20,11 +20,14 @@ please in main method use scanner to read the input for every method  from the C
 
 ## Angela's Notes
 
-I'll solve as many as I can within a short timeframe :) 
+Noon: I'll solve as many as I can within a short timeframe :) 
 If I don't finish all the tasks in time, I'll do the rest later in my free time and update this readme:)
+
+2pm: I made a few changes according to Safwan's live code. Sharing it here, although we are still not finished.
 
 ## Angela's Work
 
-...to be inserted here
+...to be inserted here.
+Also check out the code in the other pushed classes to see my work.
 
 Have a nice day :)
